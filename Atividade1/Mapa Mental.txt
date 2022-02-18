@@ -1,0 +1,10 @@
+Mapa Mental
+
+Engenharia de software 
+Métodos para o desenvolvimento de sistemas através de processos de associação/combinação de recursos.
+Métodos Ágeis - são as técnicas utilizadas para o desenvolvimento/evolução no processo de criação de software com atualização dinâmica.
+Verificação do Tempo com o Custo/benefício esperado com o software, ou seja verificar a viabilidade do projeto.
+Frameworks - Ferramentas de apoio para o processo de desenvolvimento de softwares
+Arquitetura de software - como será desenvolvido, melhor adequação do software ao usuário.
+Testes - Verificação de usuabilidade e aceitação junto aos usuários.
+Ciclo de vida - vinculado ao viabilidade do projeto.
